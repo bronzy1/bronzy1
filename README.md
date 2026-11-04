@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Bronzy!
+## Hey there 👋 I'm Bronzy!
 **Student Developer · AI & Software Engineering**
 _Turning ideas into intelligent software._
 · India
