@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hi there 👋 I'm Bronzy!
+**Student Developer · AI & Software Engineering**
+_Turning ideas into intelligent software._
+· India
 
-<!--
-**bronzy1/bronzy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
+I'm a student developer interested in Artificial Intelligence, software engineering, and building useful technology.
+🐍 Python is my primary language.
+🌐 Exploring web development with JavaScript.
+🤖 Interested in AI and intelligent systems.
+🐧 Linux enthusiast.
+🚀 Building projects, experimenting, and learning by doing.
+My philosophy: Build. Experiment. Improve.
 
-Here are some ideas to get you started:
+<h3 align="center">⚡ Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,github,nodejs,gcp,supabase,firebase&theme=light" />
+</p>
+
+
+<h3 align="center">🤝 Connect & Collaborate</h3>
+
+<p align="center">
+  Open to connecting with developers, exploring ideas, and building cool things together.
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Have an interesting idea? Let's build something.</i>
+</p>
+
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bronzy1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronzy1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+</p>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bronzy1&theme=github-dark&hide_border=true&background=0D1117" />
+</p>
+
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bronzy1&theme=github-compact&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+</p>
+
+
+_Always learning. Always building._
