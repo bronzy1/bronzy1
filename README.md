@@ -39,9 +39,10 @@ My philosophy: Build. Experiment. Improve.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bronzy1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bronzy1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bronzy1&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bronzy1&layout=compact&theme=github_dark&hide_border=true" width="49%" />
 </p>
+
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
@@ -53,8 +54,7 @@ My philosophy: Build. Experiment. Improve.
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bronzy1&theme=github-compact&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+  <img src="https://ghchart.rshah.org/409ba5/bronzy1" width="100%" />
 </p>
-
 
 _Always learning. Always building._
