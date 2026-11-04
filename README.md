@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/aurora-curtains.gif"
-       alt="Aurora Curtains, animated ASCII art"
+  <img src="https://raw.githubusercontent.com/bronzy1/bronzy1/main/assets/aurora-curtains.gif"
+       alt="Aurora Curtains"
        width="720">
 </p>
 
