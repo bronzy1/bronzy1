@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/aurora-curtains.gif" alt="Aurora Curtains, animated ASCII art" width="720">
+  <img src="assets/aurora-curtains.gif"
+       alt="Aurora Curtains, animated ASCII art"
+       width="720">
 </p>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
