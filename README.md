@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/spinning-torus.gif" alt="Spinning Torus, animated ASCII art" width="720">
+  <img src="assets/aurora-curtains.gif" alt="Aurora Curtains, animated ASCII art" width="720">
 </p>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
