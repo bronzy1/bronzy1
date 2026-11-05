@@ -34,7 +34,7 @@ My philosophy: Build. Experiment. Improve.
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/aadhiz._">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 </p>
